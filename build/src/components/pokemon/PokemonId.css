@@ -1,0 +1,65 @@
+/* info Page of the Pokemon */
+.pokeInfo{
+    background-color: #ccf2ff;
+    background-repeat: repeat;
+}
+
+/* Image of the Pokemon */
+.pokeImage{
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Name of the Pokemon */
+.Pokename{
+    font-family: Georgia, Times, serif;        
+    font-weight: bold;                          
+    font-size: 15px;
+    margin-left: 555px;
+
+}
+/* Main Link of the Pokemon */
+.pokelink{
+    font-family: Georgia, Times, serif;
+    font-weight: bold; 
+    font-size: 15px;
+    margin-left: 534px;
+}
+
+
+/* Weight of the Pokemon */  
+.weight{
+    font-family: Georgia, Times, serif;
+    font-size: 15px;
+    font-weight: bold; 
+    margin-left: 534px;
+}
+  
+/* Height of the Pokemon */
+.height{
+    font-family: Georgia, Times, serif;
+    font-size: 15px;
+    font-weight: bold; 
+    margin-left: 534px;
+}
+
+/* Base Experince of the Pokemon */
+.basexp{
+    font-family: Georgia, Times, serif;
+    font-size: 15px;
+    font-weight: bold; 
+    margin-left: 534px;
+}
+
+/* Return Button */
+.buttonforpoke{
+    margin-left: 1000px;
+}
+
+/* Return Button Font*/
+.backpage{
+    font-family: Georgia, Times, serif;
+}

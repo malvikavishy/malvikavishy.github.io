@@ -1,0 +1,22 @@
+/* Top Bar Characteristics*/
+.navbar{
+    background-color: #33ccff;
+    padding: 10px;
+    align-content: center;
+}
+
+/* Pokemon Title */
+.Title{
+    font-family: "Impact","Charcoal",sans-serif;
+    color: white;
+    text-align: center;
+    
+}
+
+/* to know more link */
+.Knowmore{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: #00004d;
+    text-align: center;
+  
+}

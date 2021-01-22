@@ -1,0 +1,24 @@
+/* Pokemon Container */
+.pokecell{
+    width: 120px;                   
+    display: inline-block;          
+    height:200px;                   
+    background-color: #ccf2ff;    
+    margin: 30px;                   
+}
+
+/* Image of the Pokemon */
+.pokeimage{
+    background-color:white;       
+    padding: 10px;                  
+    border-radius: 60px;            
+
+}
+/* Name of the Pokemon */
+.PokeName{
+    font-family: Georgia, Times, serif;        
+    font-weight: bold;                          
+    font-size: 15px;
+    text-align: center;
+}
+
